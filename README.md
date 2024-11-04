@@ -56,3 +56,6 @@ Here are some statistics you can view in the Spark UI:
 - **Memory Usage**: RAM usage during training.
 - **Data Shuffling Statistics**: Amount of data shuffled across Spark executors.
 - **CPU/GPU Utilization**: Resource usage statistics during training.
+
+## Video Demonstration
+https://youtu.be/XCiXmXMSLz0
